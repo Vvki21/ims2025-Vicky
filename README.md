@@ -1,9 +1,5 @@
 # ims2025-Vicky
 
-# [ims-2025-Vicky](https://vvki21.github.io/ims2025-Vicky/)
-
-# pages ?v=14
-
 
 ## wk01-noise
 
