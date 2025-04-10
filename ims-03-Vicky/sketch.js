@@ -125,17 +125,17 @@ function drawStar(x, y, radius, npoints) {
   endShape(CLOSE);
 }
 
-function setupFullScreenBtn() {
-  fullScreenBtn = createButton('⛶ Full Screen');
-  fullScreenBtn.position(20, 550);
-  fullScreenBtn.style('font-size', '24px');
-  fullScreenBtn.style('padding', '10px');
-  fullScreenBtn.style('background-color', '#9ae6e6');
-  fullScreenBtn.style('color', '#fff');
-  fullScreenBtn.style('border', 'none');
-  fullScreenBtn.style('cursor', 'pointer');
-  fullScreenBtn.style('z-index', '9999');
-  fullScreenBtn.style('position', 'absolute');
+// function setupFullScreenBtn() {
+//   fullScreenBtn = createButton('⛶ Full Screen');
+//   fullScreenBtn.position(20, 550);
+//   fullScreenBtn.style('font-size', '24px');
+//   fullScreenBtn.style('padding', '10px');
+//   fullScreenBtn.style('background-color', '#9ae6e6');
+//   fullScreenBtn.style('color', '#fff');
+//   fullScreenBtn.style('border', 'none');
+//   fullScreenBtn.style('cursor', 'pointer');
+//   fullScreenBtn.style('z-index', '9999');
+//   fullScreenBtn.style('position', 'absolute');
 
   fullScreenBtn.mousePressed(() => {
     fullScreenBtn.remove();
