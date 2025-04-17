@@ -1,8 +1,12 @@
 Title: Echo Pixels
 
 Concept:
-I will build an interactive p5.js experience that turns a live webcam feed into a pixelated visual, and interact with real-time microphone input.
+I plan to build an interactive p5.js experience that turns a live webcam feed into a pixelated visual, and interact with real-time microphone input.
 At rest, the screen appears pixelated and still, As ambient sound volume increases, pixel colors begin to shift, shimmer, or brighten.
+
+I chose to build this project because I was interested in creating a non-invasive, ambient interaction — one where people didn’t have to click or touch, but could still influence the environment.
+Using sound as the only input, the experience becomes almost meditative: you can sit silently and watch the scene remain still, or you can speak, laugh, or let music play and watch the canvas respond.
+The pixelated visuals represent a blurred memory or frozen moment, and sound acts as the emotional force that brings life into the stillness.
 
 resouces:
 p5.sound library: https://p5js.org/reference/#/libraries/p5.sound
@@ -13,3 +17,6 @@ speaking, clapping, or making noise
 progress:
 Built a pixelation version of the camera feed
 
+question:
+not sure the shape of pixels
+do I need to add other interaction
