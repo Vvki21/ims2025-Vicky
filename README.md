@@ -6,7 +6,7 @@
 
 - [ims-03-hw](ims-03-Vicky)
 
--[ims-04-hw](ims-04-final proposal)
+- [ims-04-hw](ims-04-final proposal)
 
 - [ims-05-hw](ims_-process_-Vicky_2025_05_01_13_32_07)
 
